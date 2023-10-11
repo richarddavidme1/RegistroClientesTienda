@@ -1,0 +1,4 @@
+---Instalacion--------------
+npm install -g json-server
+--Correr el servidor----------
+npx json-server --watch db.json
